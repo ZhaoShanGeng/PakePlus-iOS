@@ -108,14 +108,14 @@
         }
     },
     "ios": {
-        "name": "PakePlus",
-        "showName": "PakePlus",
+        "name": "Narratium",
+        "showName": "Narratium",
         "version": "0.0.1",
-        "webUrl": "https://juejin.cn/",
-        "id": "com.oaikes.app",
+        "webUrl": "https://www.narratium.org/",
+        "id": "com.narratium.app",
         "icon": "./app-icon.png",
-        "desc": "PakePlus Project by 1024xiaoshen",
-        "pubBody": "PakePlus ios build body",
+        "desc": "Narratium Project by waves",
+        "pubBody": "Narratium ios build body",
         "isHtml": false,
         "debug": false
     },
